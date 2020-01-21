@@ -2,7 +2,7 @@
 
 This repository is a collection of short games and test files.   
 
-The purpose of the chessboard, is to create a game with built in bugs that your player is unable
+The purpose of the _chessboard_, is to create a game with built in bugs that your player is unable
  to identify.   
 
 The opponent will create test cases from a stub provided to them in an effort
