@@ -8,4 +8,4 @@ The purpose of the chessboard, is to create a game with built in bugs that your 
 The opponent will create test cases from a stub provided to them in an effort
  to identify these bugs.
  Should they find a bug that was unintentional, they win.
- Should they fail to find the intentional bugs, they lose.
+ Should they fail to find the **intentional** bugs, they lose.
